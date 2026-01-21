@@ -1,4 +1,4 @@
-👋 Hi, I'm Martijn Jacobs, a 🐍 python web developer based in [Arnhem, NL](https://www.openstreetmap.org/search?query=arnhem). See also my personal website at https://www.mj026.nl.
+👋 Hi, I'm Martijn Jacobs, a 🐍 Python Web Developer based in [Arnhem, NL](https://www.openstreetmap.org/search?query=arnhem). See also my personal website at https://www.mj026.nl.
 
 This place is a good opportunity to show you [The Zen of Python](https://en.wikipedia.org/wiki/Zen_of_Python). Software principles that remain significant today:
 ```console
